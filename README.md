@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions
+# Hello GitHub Actions Lab by Sebastian Ramirez Hoffmann
 
 _Create and run a GitHub Actions workflow._
 
